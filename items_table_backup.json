@@ -1,0 +1,172 @@
+[{
+  "_id": {
+    "$oid": "625a852524501722e2ae773f"
+  },
+  "name": "strawberry",
+  "price": 300,
+  "category": "fruits",
+  "image": "https://c7.alamy.com/comp/J5K9DW/isolated-green-ripe-progenies-fruits-fruit-fruity-strawberry-berry-J5K9DW.jpg",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650099493824"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650099529899"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "625a880279178f9a3dd6ff5a"
+  },
+  "name": "apple ",
+  "price": 230,
+  "category": "fruits",
+  "image": "https://previews.123rf.com/images/usersam2007/usersam20071802/usersam2007180200020/96654339-白い背景に分離された緑の葉を持つ単一の熟した赤いリンゴの果実.jpg",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650100226897"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650100226897"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "625a88d279178f9a3dd6ff5d"
+  },
+  "name": "watermelon",
+  "price": 60,
+  "category": "fruits",
+  "image": "https://thumbs.dreamstime.com/b/big-watermelon-slice-white-background-as-package-design-element-44517200.jpg",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650100434350"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650100434350"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "625a895979178f9a3dd6ff64"
+  },
+  "name": "cucumber",
+  "price": 45,
+  "category": "vegetables",
+  "image": "https://media.istockphoto.com/photos/cucumber-slices-on-a-white-background-picture-id91516166?k=20&m=91516166&s=612x612&w=0&h=YAMQg2xORdEfGkB2UA4RuXOJGwRzCFCHAvPgzhalyAo=",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650100569084"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650100569084"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "625a89ba79178f9a3dd6ff67"
+  },
+  "name": "tomato",
+  "price": 60,
+  "category": "vegetables",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Bright_red_tomato_and_cross_section02.jpg/1280px-Bright_red_tomato_and_cross_section02.jpg",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650100666919"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650100666919"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "625a8a8879178f9a3dd6ff6a"
+  },
+  "name": "cabbage",
+  "price": 40,
+  "category": "vegetables",
+  "image": "https://media.istockphoto.com/photos/green-cabbage-isolated-on-white-background-picture-id624925456?k=20&m=624925456&s=612x612&w=0&h=AuTlbQavcaQWxC0ba_Zw_u3WD7K-OzkyZvMLlIZC9v4=",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650100872756"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650101697336"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "625a8b9e79178f9a3dd6ff8b"
+  },
+  "name": "chicken",
+  "price": 190,
+  "category": "meat",
+  "image": "https://w7.pngwing.com/pngs/335/46/png-transparent-chicken-meat-poultry-food-chicken-food-animals-chicken-meat.png",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650101150128"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650101150128"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "625a8c6779178f9a3dd6ff8e"
+  },
+  "name": "beef",
+  "price": 550,
+  "category": "meat",
+  "image": "https://media.istockphoto.com/photos/fresh-ribeye-steaks-at-the-butcher-shop-picture-id174479270?b=1&k=20&m=174479270&s=170667a&w=0&h=TYgt4dvEDrINqUr_BqgPWvWul7KTcBGz6L1-STZfNJ8=",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650101351746"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650101351746"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "625a8cea79178f9a3dd6ff91"
+  },
+  "name": "mutton ",
+  "price": 700,
+  "category": "meat",
+  "image": "https://previews.123rf.com/images/katrintimoff/katrintimoff1906/katrintimoff190600003/125582903-raw-mutton-meat-bacground-macro-shot.jpg",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650101482181"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1650101482181"
+    }
+  },
+  "__v": 0
+}]
