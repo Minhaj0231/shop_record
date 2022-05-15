@@ -1,4 +1,4 @@
-# shop_record-
+# shop_record
 This is a  pos application where one can keep track of their shop product, keep track of customer , make checkout etc.  
 
 
